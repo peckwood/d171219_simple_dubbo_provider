@@ -28,7 +28,6 @@
       2. login user and password `root/root`
 3. create Dubbo Provider and Consumer
    1. 参照本地3_Dubbo分布式服务框架入门（附工程）.md或[网上教程](https://www.kancloud.cn/digest/javaframe/125576)
-   2. ​
 
 
 ### Start order
@@ -36,3 +35,4 @@
 1. ZooKeeper
 2. Dubbo Admin (by starting the tomcat whose webapp folder contains its war)
 3. provider
+4. consumer
