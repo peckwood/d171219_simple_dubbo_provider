@@ -1,4 +1,9 @@
-Steps:
+### Features
+
+1. Simple Dubbo provider containing the interfaces
+2. Simple Dubbo consumer
+
+### Steps
 
 1. set up ZooKeeper, ZooKeeper is the registry part of Dubbo
    1. 参照[网上教程](http://blog.csdn.net/u013142781/article/details/50395650), 本地PDF为1_Zookeeper注册中心的搭建.pdf
@@ -26,8 +31,7 @@ Steps:
    2. ​
 
 
-
-Start order:
+### Start order
 
 1. ZooKeeper
 2. Dubbo Admin (by starting the tomcat whose webapp folder contains its war)
